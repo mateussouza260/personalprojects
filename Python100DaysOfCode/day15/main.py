@@ -2,6 +2,7 @@ from drinksMenu import MENU, resources
 
 
 def check_resources(drink):
+    """Checks if there is enough resources to make the drink."""
     needed_supply = MENU[drink]["ingredients"]
     for item in needed_supply:
         if needed_supply[item] > resources[item]:
@@ -12,6 +13,7 @@ def check_resources(drink):
 
 
 def make_coffee(drink):
+    """Deduct resources from the machine to deliver the coffee """
     resources["water"] -= MENU[drink]["ingredients"]["water"]
     resources["coffee"] -= MENU[drink]["ingredients"]["coffee"]
     if drink == "latte" or drink == "cappuccino":
@@ -20,6 +22,7 @@ def make_coffee(drink):
 
 
 def calc_money(drink):
+    """Calculates the total amount of coins inserted by the user"""
     quarters = int(input("How many quarters: ")) * 0.25
     dimes = int(input("How many dimes: ")) * 0.10
     nickles = int(input("How many nickles: ")) * 0.05
@@ -29,6 +32,7 @@ def calc_money(drink):
 
 
 def check_transaction(drink):
+    """Check if the user have enough money and give refund or change as needed"""
     if money < MENU[drink]["cost"]:
         print(f"Sorry that's not enough money. Money refunded:{money}.")
         return False
