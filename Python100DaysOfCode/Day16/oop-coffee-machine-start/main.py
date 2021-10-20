@@ -17,4 +17,3 @@ while is_on:
         if CoffeeMaker().is_resource_sufficient(drink):
             if MoneyMachine().make_payment(drink.cost):
                 CoffeeMaker().make_coffee(drink)
-
