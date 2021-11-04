@@ -1,5 +1,3 @@
-###This code will not work in repl.it as there is no access to the colorgram package here.###
-##We talk about this in the video tutorials##
 import colorgram
 from turtle import Turtle, Screen
 import random
@@ -22,7 +20,6 @@ timmy.shape("turtle")
 timmy.penup()
 timmy.speed(0)
 screen.colormode(255)
-screen.screensize(1000, 1000)
 
 timmy.hideturtle()
 for i in range(10):
@@ -30,26 +27,6 @@ for i in range(10):
     for n in range(10):
         timmy.dot(20, random.choice(color_list))
         timmy.forward(50)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 screen.exitonclick()
