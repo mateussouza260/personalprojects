@@ -22,6 +22,12 @@ class Snake:
             new_segment.goto(p)
             self.segments.append(new_segment)
 
+    def create_segment(self):
+        new_segment = Turtle(shape="square")
+        new_segment.penup()
+        new_segment.color("white")
+        self.segments.append(new_segment)
+
     def move(self):
         # Makes the segments move according to its successor
         for seg_num in range(len(self.segments) - 1, 0, -1):
@@ -45,4 +51,3 @@ class Snake:
     def right(self):
         if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
-
