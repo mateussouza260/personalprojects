@@ -26,6 +26,7 @@ class Snake:
         new_segment = Turtle(shape="square")
         new_segment.penup()
         new_segment.color("white")
+        new_segment.goto(self.segments[-1].position())
         self.segments.append(new_segment)
 
     def move(self):
