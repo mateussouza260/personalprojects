@@ -32,54 +32,7 @@ while game_is_on:
 
     # detect collision between ball and wall
     # first quadrant
-    if ball.xcor() >= 0 and ball.ycor() >= 0:
-        if ball.xcor() >= 370:
-            if ball.heading() > 0:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 0:
-                ball.setheading(ball.heading() - ANGLE)
-        if ball.ycor() >= 290:
-            if ball.heading() > 90:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 90:
-                ball.setheading(ball.heading() - ANGLE)
-    # second quadrant
-    elif ball.xcor() <= 0 and ball.ycor() >= 0:
-        if ball.xcor() <= -370:
-            if ball.heading() > 180:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 180:
-                ball.setheading(ball.heading() - ANGLE)
-        if ball.ycor() >= 290:
-            if ball.heading() > 90:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 90:
-                ball.setheading(ball.heading() - ANGLE)
-    # third quadrant
-    elif ball.xcor() <= 0 and ball.ycor() <= 0:
-        if ball.xcor() <= -370:
-            if ball.heading() > 180:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 180:
-                ball.setheading(ball.heading() - ANGLE)
-        if ball.ycor() <= -290:
-            if ball.heading() > 270:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 270:
-                ball.setheading(ball.heading() - ANGLE)
-    # fourth quadrant
-    elif ball.xcor() >= 0 and ball.ycor() <= 0:
-        if ball.xcor() >= 370:
-            if ball.heading() > 0:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 0:
-                ball.setheading(ball.heading() - ANGLE)
-        if ball.ycor() <= -290:
-            if ball.heading() > 270:
-                ball.setheading(ball.heading() + ANGLE)
-            if ball.heading() < 270:
-                ball.setheading(ball.heading() - ANGLE)
-    else:
-        pass
+    if ball.ycor() > 280 or ball.ycor() < -280:
+        ball.bounce()
 
 screen.exitonclick()
