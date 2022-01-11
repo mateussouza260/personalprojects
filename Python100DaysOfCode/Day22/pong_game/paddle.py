@@ -15,10 +15,10 @@ class Paddle(Turtle):
         self.penup()
 
     def up(self):
-        self.forward(20)
+        self.forward(50)
 
     def down(self):
-        self.backward(20)
+        self.backward(50)
 
 
     # Create border and calculate distance from paddle to autorize use of function based on the position

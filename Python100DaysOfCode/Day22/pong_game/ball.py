@@ -10,7 +10,7 @@ class Ball(Turtle):
         self.shapesize(0.8, 0.8)
         self.color("white")
         self.penup()
-        self.speed(0.1)
+        self.speed(0.01)
         # self.setheading(random.randint(0, 360))
         self.x_move = 10
         self.y_move = 10
@@ -20,5 +20,12 @@ class Ball(Turtle):
         new_y = self.ycor() + self.y_move
         self.goto(new_x, new_y)
 
-    def bounce(self):
+    def bounce_y(self):
         self.y_move *= -1
+
+    def bounce_x(self):
+        self.x_move *= -1
+
+    def resetting(self):
+        self.goto(0, 0)
+        self.bounce_x()
