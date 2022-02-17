@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4556acb-2129-40d3-8e12-e8affc3412da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day24/Day24/.idea/Day24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day24/Day24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day24/Mail+Merge+Project+Start/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day24/mail-merge-project-start/.idea/mail-merge-project-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day24/snake_game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/Day25/.idea/Day25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/Day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/Day25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/Day25/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day25/us-states-game-start/states.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/Day26/.idea/Day26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/Day26/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/NATO-alphabet-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/us-states-game-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/us-states-game-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day26/us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/Day27/.idea/Day27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/Day27/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/Day27/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/mile_to_km_converter_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day27/mile_to_km_converter_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/pomodoro-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day28/pomodoro-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day29/password-manager-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day30/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day30/password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/Day31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/flash-card-project-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day31/flash-card-project-start/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/Birthday Wisher (Day 32) start/.idea/Birthday Wisher (Day 32) start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/Send Motivational Quotes on Mondays via Email_Project/.idea/Birthday Wisher (Day 32) start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/birthday-wisher-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day32/birthday-wisher-extrahard-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day33/.idea/Day33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day33/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/issoverhead-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/kanye-quotes-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kanye-quotes-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sunset_time/.idea/sunset_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sunset_time/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day24/snake_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day24/snake_game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day24/snake_game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day24/snake_game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day24/snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day24/snake_game/snake.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="24W6MtP9gl6MHkdd5NmSQztWsio" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Day34/quizzler-app-start" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="issoverhead-start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4556acb-2129-40d3-8e12-e8affc3412da" name="Changes" comment="" />
+      <created>1643733950954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643733950954</updated>
+    </task>
+    <servers />
+  </component>
+</project>
