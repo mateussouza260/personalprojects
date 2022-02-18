@@ -33,7 +33,7 @@ if will_rain:
         # body="It´s going to rain today! Bring an umbrella ☔",
         body="Você tem o filho mais lindo do mundo\n-Mateus",
         from_="+18304980872",
-        to="+5511995314217",
+        to="+5511972736830",
     )
     print(message.status)
 
